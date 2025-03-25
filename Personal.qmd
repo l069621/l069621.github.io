@@ -7,6 +7,61 @@ format:
     number-sections: false
 ---
 
+## 🎉 Big Milestones
+
+::: {.timeline}
+
+### 📍1997 — Born in Yibin, China  
+*Where it all began—surrounded by mountains and river valleys.*  
+
+---
+
+### 📍2009 — Moved to Chengdu for Middle School  
+*A young teenager stepping into a bustling city full of possibilities.*  
+
+---
+
+### 📍2015 — Started College at Shanghai Jiao Tong University  
+*Diving into science and shaping dreams.*  
+
+---
+
+### 📍2018 — Published My First Research Paper  
+*A proud moment marking my first contribution to science.*  
+
+---
+
+### 📍2019 — Graduated and Decided to Study Abroad  
+*A leap of faith and a heart full of hope.*  
+![Graduation 2019](media/2019_graduation.jpg)
+
+---
+
+### 📍2020 — Moved to the United States for Graduate School  
+*New country, new challenges, and a new chapter.*  
+
+---
+
+### 📍2023 — First Internship in the Pharmaceutical Industry  
+*Turning knowledge into real-world impact.*  
+![Internship](images/internship.jpg)
+
+---
+
+### 📍2024 — Earned My Ph.D. and Moved to Indiana  
+*Years of hard work paid off—hello Dr. Me!*  
+![PhD Graduation](media/2024_graduation.jpg)
+
+---
+
+### 📍2025 — Getting Married to Lu and Buying Our First Home  
+*Building a future together, full of love and shared dreams.*  
+![Wedding & home](media/deathvalley.jpg)
+
+:::
+
+---
+
 ## 👋 About Me Outside the Lab
 
 When I’m not modeling pharmacokinetics or optimizing drug development pipelines, I enjoy a variety of activities that help me stay grounded, creative, and connected.
@@ -26,9 +81,14 @@ When I’m not modeling pharmacokinetics or optimizing drug development pipeline
 
 I’ve had the pleasure of visiting several breathtaking national parks, including:
 
+- 🏜️ **Death Valley National Park**
+- 🏝 **Shenandoah national park**
+![](media/shenadoh.jpg)
 - 🏞️ **Yellowstone National Park**
 - 🏔️ **Grand Teton National Park**
 - 🍁 **Banff National Park** (Canada)
+- 🏞 **Yunnan, China**
+![](media/yunnan.jpg)
 
 I love spending time in nature — hiking, exploring, and soaking in the peace of the outdoors.
 
@@ -53,9 +113,6 @@ I come from a loving family with two amazing older sisters. We remain very close
 
 ---
 
-## 🎉 Big Milestones
-
-This year has been full of beautiful milestones — including our **wedding celebration** and a **housewarming party**. I'm incredibly grateful for the love and support surrounding us.
 
 ---
 
