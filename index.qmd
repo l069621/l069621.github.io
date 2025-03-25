@@ -1,11 +1,39 @@
 ---
-title: "l069621.github.io"
+title: "Zengtao Wang"
+image: media/Lilly headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/zengtao-wang/
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=4mJXDH4AAAAJ&hl=en
+    - text: Email
+      href: zengtao.wang@lilly.com
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi there! My name is Zengtao Wang and I am a pharmacometrician working at Eli Lilly and Company. 
+I am a PKPD scientist by training and I am passinate about applying quantitative modeling and simulation to drug development.
 
-```{r}
-1 + 1
-```
+## Education
+
+**University of Minnesota, Twin Cities** | Minneapolis, MN
+
+PhD in Pharmaceutics | Sept 2019 - June 2024
+
+**Shanghai Jiao Tong University** | Shanghai, China
+
+B.S in Pharmacy | Sept 2015 - June 2019
+
+## Experience
+
+**Eli Lilly and Company** | Indianapolis, IN
+
+Advisor - Pharmacometrician | June 2024 - present
+
+:::

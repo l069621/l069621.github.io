@@ -1,16 +1,86 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on the intersection of pharmacokinetics/pharmacodynamics (PK/PD), quantitative systems pharmacology (QSP), and mathematical modeling to improve the understanding of complex disease mechanisms and inform therapeutic development.\nI am particularly interested in applying modeling and simulation approaches to support drug development in neurological and metabolic diseases, including:\n\nAlzheimer’s disease\nType 1 and Type 2 diabetes\nBlood-brain barrier (BBB) transport\nCerebrovascular dysfunction"
+  },
+  {
+    "objectID": "research.html#overview",
+    "href": "research.html#overview",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on the intersection of pharmacokinetics/pharmacodynamics (PK/PD), quantitative systems pharmacology (QSP), and mathematical modeling to improve the understanding of complex disease mechanisms and inform therapeutic development.\nI am particularly interested in applying modeling and simulation approaches to support drug development in neurological and metabolic diseases, including:\n\nAlzheimer’s disease\nType 1 and Type 2 diabetes\nBlood-brain barrier (BBB) transport\nCerebrovascular dysfunction"
+  },
+  {
+    "objectID": "research.html#current-research-areas",
+    "href": "research.html#current-research-areas",
+    "title": "Research",
+    "section": "Current Research Areas",
+    "text": "Current Research Areas\n\n🧠 Alzheimer’s Disease & Blood-Brain Barrier Modeling\n\nInvestigating how amyloid-beta (Aβ) peptides impact endothelial function and inflammation at the BBB\nModeling the role of insulin resistance and p38 MAPK signaling in BBB dysfunction\nUsing dynamic SPECT/CT imaging and PK modeling to assess Aβ42 brain distribution\nEvaluating the therapeutic potential of HDL mimetic peptides (e.g., 4F) to restore BBB integrity\n\n\n\n\n💉 Diabetes & Insulin Therapy\n\nPopulation PK/PD modeling of novel insulin analogs\nDose projection for first-in-human (FIH) studies using preclinical data\nDisease progression modeling of Alzheimer’s and Parkinson’s disease\n\n\n\n\n🔬 Methodologies\n\nMechanistic compartmental and systems pharmacology modeling\nSex-specific modeling of Aβ transport and vascular dysfunction"
+  },
+  {
+    "objectID": "research.html#selected-projects",
+    "href": "research.html#selected-projects",
+    "title": "Research",
+    "section": "Selected Projects",
+    "text": "Selected Projects\n\nModeling HDL mimetic peptide effects on Aβ transport at the BBB\nDynamic imaging + PK modeling to quantify influx/efflux changes\nQSP modeling of insulin signaling pathways in the brain\nExploring insulin resistance in Alzheimer’s disease\nIndividualized PD simulation for dose optimization\nBuilt a Shiny app to explore dosing scenarios by patient subgroup"
+  },
+  {
+    "objectID": "research.html#lets-collaborate",
+    "href": "research.html#lets-collaborate",
+    "title": "Research",
+    "section": "Let’s Collaborate",
+    "text": "Let’s Collaborate\nI’m always open to collaborations in systems pharmacology, BBB modeling, and model-informed drug development.\n📬 Reach me at zengtao.wang@lilly.com"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zengtao Wang",
+    "section": "",
+    "text": "Hi there! My name is Zengtao Wang and I am a pharmacometrician working at Eli Lilly and Company. I am a PKPD scientist by training and I am passinate about applying quantitative modeling and simulation to drug development.\n\n\nUniversity of Minnesota, Twin Cities | Minneapolis, MN\nPhD in Pharmaceutics | Sept 2019 - June 2024\nShanghai Jiao Tong University | Shanghai, China\nB.S in Pharmacy | Sept 2015 - June 2019\n\n\n\nEli Lilly and Company | Indianapolis, IN\nAdvisor - Pharmacometrician | June 2024 - present"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Zengtao Wang",
+    "section": "",
+    "text": "University of Minnesota, Twin Cities | Minneapolis, MN\nPhD in Pharmaceutics | Sept 2019 - June 2024\nShanghai Jiao Tong University | Shanghai, China\nB.S in Pharmacy | Sept 2015 - June 2019"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Zengtao Wang",
+    "section": "",
+    "text": "Eli Lilly and Company | Indianapolis, IN\nAdvisor - Pharmacometrician | June 2024 - present"
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "QSP Modeling Shows Pathological Synergism Between Insulin Resistance and Amyloid-Beta Exposure in Upregulating VCAM1 Expression at the BBB Endothelium. \nCPT Pharmacometrics Syst Pharmacol..\nDOI: 10.1002/psp4.13296.\n\n\n\n\nHigh-Density Lipoprotein Mimetic Peptide 4F Reduces Toxic Amyloid-Beta Exposure to the Blood-Brain Barrier Endothelium in Alzheimer’s Disease Transgenic Mice.\nMol Pharm..\nDOI: 10.1021/acs.molpharmaceut.4c00633.\n\n\n\n\nAmyloid-beta proteins 40 and 42 employ distinct molecular pathways for cell entry and intracellular transit at the BBB endothelium.\nMol Pharmacol..\nDOI: 10.1124/molpharm.123.000670\n\n\n\n\nDeconvolution of plasma pharmacokinetics from dynamic heart imaging data obtained by SPECT/CT imaging. J Pharmacol Exp Ther. DOI: 10.1124/jpet.122.001545\n\n\n\n\nMapping the Dynamics of Insulin-responsive Pathways in the Blood Brain Barrier Endothelium using Time-series Transcriptomics Data. NPJ Syst Biol Appl. DOI: 10.1038/s41540-022-00288-0\n\n\n\n\nSemimechanistic Population Pharmacokinetic Modeling to Investigate Amyloid Beta Trafficking and Accumulation at the BBB Endothelium. Mol Pharm. DOI: 10.1021/acs.molpharmaceut.1c00549"
+  },
+  {
+    "objectID": "Publications.html#selected-publications",
+    "href": "Publications.html#selected-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "QSP Modeling Shows Pathological Synergism Between Insulin Resistance and Amyloid-Beta Exposure in Upregulating VCAM1 Expression at the BBB Endothelium. \nCPT Pharmacometrics Syst Pharmacol..\nDOI: 10.1002/psp4.13296.\n\n\n\n\nHigh-Density Lipoprotein Mimetic Peptide 4F Reduces Toxic Amyloid-Beta Exposure to the Blood-Brain Barrier Endothelium in Alzheimer’s Disease Transgenic Mice.\nMol Pharm..\nDOI: 10.1021/acs.molpharmaceut.4c00633.\n\n\n\n\nAmyloid-beta proteins 40 and 42 employ distinct molecular pathways for cell entry and intracellular transit at the BBB endothelium.\nMol Pharmacol..\nDOI: 10.1124/molpharm.123.000670\n\n\n\n\nDeconvolution of plasma pharmacokinetics from dynamic heart imaging data obtained by SPECT/CT imaging. J Pharmacol Exp Ther. DOI: 10.1124/jpet.122.001545\n\n\n\n\nMapping the Dynamics of Insulin-responsive Pathways in the Blood Brain Barrier Endothelium using Time-series Transcriptomics Data. NPJ Syst Biol Appl. DOI: 10.1038/s41540-022-00288-0\n\n\n\n\nSemimechanistic Population Pharmacokinetic Modeling to Investigate Amyloid Beta Trafficking and Accumulation at the BBB Endothelium. Mol Pharm. DOI: 10.1021/acs.molpharmaceut.1c00549"
+  },
+  {
+    "objectID": "Publications.html#full-list",
+    "href": "Publications.html#full-list",
+    "title": "Publications",
+    "section": "Full List",
+    "text": "Full List\n📄 View all publications on Google Scholar"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "l069621.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]

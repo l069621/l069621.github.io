@@ -1,0 +1,56 @@
+---
+title: "Publications"
+format:
+  html:
+    toc: true
+    number-sections: false
+---
+
+## Selected Publications
+
+### Wang Z, Veerareddy V, Tang X, Thompson KJ, Krishnan S, Kalari KR, Kandimalla KK. (2024)  
+**QSP Modeling Shows Pathological Synergism Between Insulin Resistance and Amyloid-Beta Exposure in Upregulating VCAM1 Expression at the BBB Endothelium. **  
+*CPT Pharmacometrics Syst Pharmacol.*.  
+[DOI: 10.1002/psp4.13296.](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.13296)
+
+---
+
+### Wang Z, Zhong R, Curran GL, Min P, Lowe VJ, Li L, Kandimalla KK. (2024)  
+**High-Density Lipoprotein Mimetic Peptide 4F Reduces Toxic Amyloid-Beta Exposure to the Blood-Brain Barrier Endothelium in Alzheimer's Disease Transgenic Mice.**  
+*Mol Pharm.*.  
+[DOI: 10.1021/acs.molpharmaceut.4c00633.](https://pubs.acs.org/doi/full/10.1021/acs.molpharmaceut.4c00633)
+
+---
+
+### Wang Z, Sharda N, Omtri RS, Li L, Kandimalla KK. (2023)  
+**Amyloid-beta proteins 40 and 42 employ distinct molecular pathways for cell entry and intracellular transit at the BBB endothelium.**  
+*Mol Pharmacol.*.  
+[DOI: 10.1124/molpharm.123.000670](https://molpharm.aspetjournals.org/article/S0026-895X(24)00059-2/abstract)
+
+---
+
+### Wang Z, Wang L, Ebbini M, Curran GL, Vernon CJ, Min HK, Siegel RA, Lowe VJ, Kandimalla KK. (2023)
+**Deconvolution of plasma pharmacokinetics from dynamic heart imaging data obtained by SPECT/CT imaging.**
+*J Pharmacol Exp Ther.*
+[DOI: 10.1124/jpet.122.001545](https://jpet.aspetjournals.org/article/S0022-3565(24)17050-4/abstract)
+
+---
+
+### Wang Z, Tang X, Swaminathan SK, Kalari KR, Kandimalla KK. (2022) 
+**Mapping the Dynamics of Insulin-responsive Pathways in the Blood Brain Barrier Endothelium using Time-series Transcriptomics Data.**
+*NPJ Syst Biol Appl.*
+[DOI: 10.1038/s41540-022-00288-0](https://www.nature.com/articles/s41540-022-00235-8)
+
+---
+
+### Wang Z, Sharda N, Curran GL, Li L, Lowe VJ, Kandimalla KK. (2021)
+**Semimechanistic Population Pharmacokinetic Modeling to Investigate Amyloid Beta Trafficking and Accumulation at the BBB Endothelium.**
+*Mol Pharm.*
+[DOI: 10.1021/acs.molpharmaceut.1c00549](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.1c00549)
+
+---
+
+## Full List  
+📄 View all publications on [Google Scholar](https://scholar.google.com/citations?user=4mJXDH4AAAAJ&hl=en)
+
+

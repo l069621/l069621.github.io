@@ -1,0 +1,69 @@
+---
+title: "Research"
+format:
+  html:
+    toc: true
+    number-sections: false
+    smooth-scroll: true
+    html-math-method: katex
+---
+
+## Overview
+
+My research focuses on the intersection of pharmacokinetics/pharmacodynamics (PK/PD), quantitative systems pharmacology (QSP), and mathematical modeling to improve the understanding of complex disease mechanisms and inform therapeutic development.
+
+I am particularly interested in applying modeling and simulation approaches to support drug development in neurological and metabolic diseases, including:
+
+- **Alzheimer’s disease**
+- **Type 1 and Type 2 diabetes**
+- **Blood-brain barrier (BBB) transport**
+- **Cerebrovascular dysfunction**
+
+---
+
+## Current Research Areas
+
+### 🧠 Alzheimer’s Disease & Blood-Brain Barrier Modeling
+
+- Investigating how amyloid-beta (Aβ) peptides impact endothelial function and inflammation at the BBB
+- Modeling the role of insulin resistance and p38 MAPK signaling in BBB dysfunction
+- Using dynamic SPECT/CT imaging and PK modeling to assess Aβ42 brain distribution
+- Evaluating the therapeutic potential of HDL mimetic peptides (e.g., 4F) to restore BBB integrity
+
+---
+
+### 💉 Diabetes & Insulin Therapy
+
+- Population PK/PD modeling of novel insulin analogs
+- Dose projection for first-in-human (FIH) studies using preclinical data
+- Disease progression modeling of Alzheimer's and Parkinson's disease
+
+---
+
+### 🔬 Methodologies
+
+- Mechanistic compartmental and systems pharmacology modeling
+- Sex-specific modeling of Aβ transport and vascular dysfunction
+
+---
+
+## Selected Projects
+
+- **Modeling HDL mimetic peptide effects on Aβ transport at the BBB**  
+  *Dynamic imaging + PK modeling to quantify influx/efflux changes*
+
+- **QSP modeling of insulin signaling pathways in the brain**  
+  *Exploring insulin resistance in Alzheimer’s disease*
+
+- **Individualized PD simulation for dose optimization**  
+  *Built a Shiny app to explore dosing scenarios by patient subgroup*
+
+---
+
+## Let's Collaborate
+
+I’m always open to collaborations in systems pharmacology, BBB modeling, and model-informed drug development.  
+📬 Reach me at [zengtao.wang@lilly.com](mailto:zengtao.wang@lilly.com)
+
+
+
