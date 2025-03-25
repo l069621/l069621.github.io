@@ -1,0 +1,66 @@
+---
+title: "Personal Life"
+format:
+  html:
+    toc: false
+    smooth-scroll: true
+    number-sections: false
+---
+
+## 👋 About Me Outside the Lab
+
+When I’m not modeling pharmacokinetics or optimizing drug development pipelines, I enjoy a variety of activities that help me stay grounded, creative, and connected.
+
+---
+
+## 🌱 Hobbies & Interests
+
+- **Gardening** — I find peace and joy in growing herbs and vegetables, especially during spring and summer. Watching something grow over time reminds me of both science and patience.
+- **Cooking** — Experimenting with new recipes is one of my favorite creative outlets. I enjoy cooking traditional Chinese dishes and trying global cuisines.
+- **Table Tennis & Badminton** — Great ways to stay active and have fun with friends and family.
+- **Mahjong** — I love playing mahjong with friends — it’s strategic, social, and always entertaining.
+
+---
+
+## 🌄 Travel & Nature
+
+I’ve had the pleasure of visiting several breathtaking national parks, including:
+
+- 🏞️ **Yellowstone National Park**
+- 🏔️ **Grand Teton National Park**
+- 🍁 **Banff National Park** (Canada)
+
+I love spending time in nature — hiking, exploring, and soaking in the peace of the outdoors.
+
+---
+
+## 💍 Married Life
+
+I am going to marry my wonderful partner, **Lu**, in **June 2025**! ❤️  
+She's been an incredible source of support and joy in my life. We’re excited to begin this new chapter together and are grateful for all the love from family and friends.
+
+---
+
+## 🏠 Life in Indiana
+
+I currently live in the Greater Indianapolis area, where Lu and I recently bought our first home 🏡. It’s been a wonderful journey turning a house into a home, and we’re excited for what the future holds here.
+
+---
+
+## 👨‍👩‍👧‍👧 Family
+
+I come from a loving family with two amazing older sisters. We remain very close, even as our lives have taken us to different parts of the world.
+
+---
+
+## 🎉 Big Milestones
+
+This year has been full of beautiful milestones — including our **wedding celebration** and a **housewarming party**. I'm incredibly grateful for the love and support surrounding us.
+
+---
+
+Thanks for stopping by and getting to know me beyond the publications and projects!
+
+
+
+

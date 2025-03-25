@@ -4,35 +4,42 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research focuses on the intersection of pharmacokinetics/pharmacodynamics (PK/PD), quantitative systems pharmacology (QSP), and mathematical modeling to improve the understanding of complex disease mechanisms and inform therapeutic development.\nI am particularly interested in applying modeling and simulation approaches to support drug development in neurological and metabolic diseases, including:\n\nAlzheimer’s disease\nType 1 and Type 2 diabetes\nBlood-brain barrier (BBB) transport\nCerebrovascular dysfunction"
+    "text": "PhD Research, University of Minnesota (Nov 2019 – May 2024)\nGraduate Research Assistant\nAdvisor: Dr. Karunya K. Kandimalla\nMy dissertation research focused on understanding how amyloid-beta (Aβ) peptides and insulin resistance contribute to cerebrovascular dysfunction in Alzheimer’s disease, with a special emphasis on the blood-brain barrier (BBB). Key accomplishments include:\n\n📊 Developed a population pharmacokinetic model to study Aβ isoform trafficking and accumulation at the BBB endothelium.\nPublished in Molecular Pharmaceutics\n🔬 Conducted flow cytometry, western blot, and confocal imaging to investigate distinct molecular mechanisms of Aβ uptake and intracellular trafficking in BBB endothelial cells.\nPublished in Molecular Pharmacology\n🧠 Established a compartmental PK model to deconvolve plasma kinetics of imaging tracers from dynamic SPECT/CT heart scans.\nPublished in Journal of Pharmacology and Experimental Therapeutics\n🧪 Studied the effect of HDL mimetic peptides and gut microbiome metabolites on Aβ accumulation using dynamic imaging and cellular assays.\nPublished in Molecular Pharmaceutics\n🧬 Interpreted time-series transcriptomics of insulin-exposed BBB endothelial cells and co-authored the manuscript.\nPublished in NPJ Systems Biology and Applications\n🔁 Built a quantitative systems pharmacology (QSP) model to simulate insulin signaling and VCAM1 expression in BBB endothelial cells. Integrated proteomics and transcriptomics to study vascular inflammation in Alzheimer’s disease.\nPublished in CPT: Pharmacometrics & Systems Pharmacology"
   },
   {
-    "objectID": "research.html#overview",
-    "href": "research.html#overview",
+    "objectID": "research.html#alzheimers-disease-blood-brain-barrier-dysfunction",
+    "href": "research.html#alzheimers-disease-blood-brain-barrier-dysfunction",
     "title": "Research",
     "section": "",
-    "text": "My research focuses on the intersection of pharmacokinetics/pharmacodynamics (PK/PD), quantitative systems pharmacology (QSP), and mathematical modeling to improve the understanding of complex disease mechanisms and inform therapeutic development.\nI am particularly interested in applying modeling and simulation approaches to support drug development in neurological and metabolic diseases, including:\n\nAlzheimer’s disease\nType 1 and Type 2 diabetes\nBlood-brain barrier (BBB) transport\nCerebrovascular dysfunction"
+    "text": "PhD Research, University of Minnesota (Nov 2019 – May 2024)\nGraduate Research Assistant\nAdvisor: Dr. Karunya K. Kandimalla\nMy dissertation research focused on understanding how amyloid-beta (Aβ) peptides and insulin resistance contribute to cerebrovascular dysfunction in Alzheimer’s disease, with a special emphasis on the blood-brain barrier (BBB). Key accomplishments include:\n\n📊 Developed a population pharmacokinetic model to study Aβ isoform trafficking and accumulation at the BBB endothelium.\nPublished in Molecular Pharmaceutics\n🔬 Conducted flow cytometry, western blot, and confocal imaging to investigate distinct molecular mechanisms of Aβ uptake and intracellular trafficking in BBB endothelial cells.\nPublished in Molecular Pharmacology\n🧠 Established a compartmental PK model to deconvolve plasma kinetics of imaging tracers from dynamic SPECT/CT heart scans.\nPublished in Journal of Pharmacology and Experimental Therapeutics\n🧪 Studied the effect of HDL mimetic peptides and gut microbiome metabolites on Aβ accumulation using dynamic imaging and cellular assays.\nPublished in Molecular Pharmaceutics\n🧬 Interpreted time-series transcriptomics of insulin-exposed BBB endothelial cells and co-authored the manuscript.\nPublished in NPJ Systems Biology and Applications\n🔁 Built a quantitative systems pharmacology (QSP) model to simulate insulin signaling and VCAM1 expression in BBB endothelial cells. Integrated proteomics and transcriptomics to study vascular inflammation in Alzheimer’s disease.\nPublished in CPT: Pharmacometrics & Systems Pharmacology"
   },
   {
-    "objectID": "research.html#current-research-areas",
-    "href": "research.html#current-research-areas",
+    "objectID": "research.html#modeling-neurodegenerative-disease-progression",
+    "href": "research.html#modeling-neurodegenerative-disease-progression",
     "title": "Research",
-    "section": "Current Research Areas",
-    "text": "Current Research Areas\n\n🧠 Alzheimer’s Disease & Blood-Brain Barrier Modeling\n\nInvestigating how amyloid-beta (Aβ) peptides impact endothelial function and inflammation at the BBB\nModeling the role of insulin resistance and p38 MAPK signaling in BBB dysfunction\nUsing dynamic SPECT/CT imaging and PK modeling to assess Aβ42 brain distribution\nEvaluating the therapeutic potential of HDL mimetic peptides (e.g., 4F) to restore BBB integrity\n\n\n\n\n💉 Diabetes & Insulin Therapy\n\nPopulation PK/PD modeling of novel insulin analogs\nDose projection for first-in-human (FIH) studies using preclinical data\nDisease progression modeling of Alzheimer’s and Parkinson’s disease\n\n\n\n\n🔬 Methodologies\n\nMechanistic compartmental and systems pharmacology modeling\nSex-specific modeling of Aβ transport and vascular dysfunction"
+    "section": "🧬 Modeling Neurodegenerative Disease Progression",
+    "text": "🧬 Modeling Neurodegenerative Disease Progression\nModeling & Simulation Co-op, Biogen Inc. (Jan – Jun 2023)\nClinical Pharmacology and Pharmacometrics\nSupervisor: Dr. Jingxian (JC) Chen\n\n📈 Conducted model-based meta-analysis (MBMA) of MDS-UPDRS data to support early Parkinson’s disease (PD) trial design.\n🧮 Built nonlinear mixed-effect models (in NONMEM and Monolix) to describe disease progression and time-to-event outcomes.\n📊 Simulated longitudinal endpoint profiles to evaluate study designs and dosing strategies.\n🗣️ Presented modeling results and impact to internal project teams and stakeholders.\nPresented at ACoP14\n🧪 Developed a PK/PD model for antisense oligonucleotide (ASO) therapy in PD and simulated alternate regimens to inform dose optimization."
   },
   {
-    "objectID": "research.html#selected-projects",
-    "href": "research.html#selected-projects",
+    "objectID": "research.html#imaging-probe-development-for-cancer-detection",
+    "href": "research.html#imaging-probe-development-for-cancer-detection",
     "title": "Research",
-    "section": "Selected Projects",
-    "text": "Selected Projects\n\nModeling HDL mimetic peptide effects on Aβ transport at the BBB\nDynamic imaging + PK modeling to quantify influx/efflux changes\nQSP modeling of insulin signaling pathways in the brain\nExploring insulin resistance in Alzheimer’s disease\nIndividualized PD simulation for dose optimization\nBuilt a Shiny app to explore dosing scenarios by patient subgroup"
+    "section": "🧪 Imaging Probe Development for Cancer Detection",
+    "text": "🧪 Imaging Probe Development for Cancer Detection\nUndergraduate Research Assistant, Shanghai Jiao Tong University (Oct 2016 – Jun 2019)\nAdvisor: Dr. Qingqing Meng\n\n🧫 Designed and synthesized bimodal NIR and PET imaging probes targeting CYP1B1 for early tumor detection.\n🔬 Evaluated binding affinity and selectivity in CYP1B1-overexpressing cancer cell lines using flow cytometry and confocal imaging.\n🧠 Performed in vivo/ex vivo biodistribution and tumor visualization imaging.\nPublished in J. Med. Chem. and ChemBioChem."
   },
   {
-    "objectID": "research.html#lets-collaborate",
-    "href": "research.html#lets-collaborate",
+    "objectID": "research.html#bbb-drug-delivery-for-alzheimers-therapy",
+    "href": "research.html#bbb-drug-delivery-for-alzheimers-therapy",
     "title": "Research",
-    "section": "Let’s Collaborate",
-    "text": "Let’s Collaborate\nI’m always open to collaborations in systems pharmacology, BBB modeling, and model-informed drug development.\n📬 Reach me at zengtao.wang@lilly.com"
+    "section": "🧪 BBB Drug Delivery for Alzheimer’s Therapy",
+    "text": "🧪 BBB Drug Delivery for Alzheimer’s Therapy\nSummer Research Intern, University of Tokyo / iCONM (Summer 2018)\nSupervisor: Dr. Kazunori Kataoka\n\n🧪 Prepared PEGylated anti-Aβ antibodies and characterized them with GPC and DLS.\n🧠 Assessed brain delivery and pharmacokinetics of modified antibodies to improve BBB penetration in Alzheimer’s disease."
+  },
+  {
+    "objectID": "research.html#related-publications",
+    "href": "research.html#related-publications",
+    "title": "Research",
+    "section": "🔗 Related Publications",
+    "text": "🔗 Related Publications\n\n📂 See full list on Google Scholar\n📄 View detailed summaries in the Publications page."
   },
   {
     "objectID": "index.html",
@@ -60,14 +67,14 @@
     "href": "Publications.html",
     "title": "Publications",
     "section": "",
-    "text": "QSP Modeling Shows Pathological Synergism Between Insulin Resistance and Amyloid-Beta Exposure in Upregulating VCAM1 Expression at the BBB Endothelium. \nCPT Pharmacometrics Syst Pharmacol..\nDOI: 10.1002/psp4.13296.\n\n\n\n\nHigh-Density Lipoprotein Mimetic Peptide 4F Reduces Toxic Amyloid-Beta Exposure to the Blood-Brain Barrier Endothelium in Alzheimer’s Disease Transgenic Mice.\nMol Pharm..\nDOI: 10.1021/acs.molpharmaceut.4c00633.\n\n\n\n\nAmyloid-beta proteins 40 and 42 employ distinct molecular pathways for cell entry and intracellular transit at the BBB endothelium.\nMol Pharmacol..\nDOI: 10.1124/molpharm.123.000670\n\n\n\n\nDeconvolution of plasma pharmacokinetics from dynamic heart imaging data obtained by SPECT/CT imaging. J Pharmacol Exp Ther. DOI: 10.1124/jpet.122.001545\n\n\n\n\nMapping the Dynamics of Insulin-responsive Pathways in the Blood Brain Barrier Endothelium using Time-series Transcriptomics Data. NPJ Syst Biol Appl. DOI: 10.1038/s41540-022-00288-0\n\n\n\n\nSemimechanistic Population Pharmacokinetic Modeling to Investigate Amyloid Beta Trafficking and Accumulation at the BBB Endothelium. Mol Pharm. DOI: 10.1021/acs.molpharmaceut.1c00549"
+    "text": "Wang Z, Veerareddy V, Tang X, Thompson KJ, Krishnan S, Kalari KR, Kandimalla KK. (2024)\nCPT Pharmacometrics Syst Pharmacol.\nDOI: 10.1002/psp4.13296\n\n\n\n\nWang Z, Zhong R, Curran GL, Min P, Lowe VJ, Li L, Kandimalla KK. (2024)\nMol Pharm.\nDOI: 10.1021/acs.molpharmaceut.4c00633\n\n\n\n\nWang Z, Sharda N, Omtri RS, Li L, Kandimalla KK. (2023)\nMol Pharmacol.\nDOI: 10.1124/molpharm.123.000670\n\n\n\n\nWang Z, Wang L, Ebbini M, Curran GL, Vernon CJ, Min HK, Siegel RA, Lowe VJ, Kandimalla KK. (2023)\nJ Pharmacol Exp Ther.\nDOI: 10.1124/jpet.122.001545\n\n\n\n\nWang Z, Tang X, Swaminathan SK, Kalari KR, Kandimalla KK. (2022)\nNPJ Syst Biol Appl.\nDOI: 10.1038/s41540-022-00288-0\n\n\n\n\nWang Z, Sharda N, Curran GL, Li L, Lowe VJ, Kandimalla KK. (2021)\nMol Pharm.\nDOI: 10.1021/acs.molpharmaceut.1c00549"
   },
   {
     "objectID": "Publications.html#selected-publications",
     "href": "Publications.html#selected-publications",
     "title": "Publications",
     "section": "",
-    "text": "QSP Modeling Shows Pathological Synergism Between Insulin Resistance and Amyloid-Beta Exposure in Upregulating VCAM1 Expression at the BBB Endothelium. \nCPT Pharmacometrics Syst Pharmacol..\nDOI: 10.1002/psp4.13296.\n\n\n\n\nHigh-Density Lipoprotein Mimetic Peptide 4F Reduces Toxic Amyloid-Beta Exposure to the Blood-Brain Barrier Endothelium in Alzheimer’s Disease Transgenic Mice.\nMol Pharm..\nDOI: 10.1021/acs.molpharmaceut.4c00633.\n\n\n\n\nAmyloid-beta proteins 40 and 42 employ distinct molecular pathways for cell entry and intracellular transit at the BBB endothelium.\nMol Pharmacol..\nDOI: 10.1124/molpharm.123.000670\n\n\n\n\nDeconvolution of plasma pharmacokinetics from dynamic heart imaging data obtained by SPECT/CT imaging. J Pharmacol Exp Ther. DOI: 10.1124/jpet.122.001545\n\n\n\n\nMapping the Dynamics of Insulin-responsive Pathways in the Blood Brain Barrier Endothelium using Time-series Transcriptomics Data. NPJ Syst Biol Appl. DOI: 10.1038/s41540-022-00288-0\n\n\n\n\nSemimechanistic Population Pharmacokinetic Modeling to Investigate Amyloid Beta Trafficking and Accumulation at the BBB Endothelium. Mol Pharm. DOI: 10.1021/acs.molpharmaceut.1c00549"
+    "text": "Wang Z, Veerareddy V, Tang X, Thompson KJ, Krishnan S, Kalari KR, Kandimalla KK. (2024)\nCPT Pharmacometrics Syst Pharmacol.\nDOI: 10.1002/psp4.13296\n\n\n\n\nWang Z, Zhong R, Curran GL, Min P, Lowe VJ, Li L, Kandimalla KK. (2024)\nMol Pharm.\nDOI: 10.1021/acs.molpharmaceut.4c00633\n\n\n\n\nWang Z, Sharda N, Omtri RS, Li L, Kandimalla KK. (2023)\nMol Pharmacol.\nDOI: 10.1124/molpharm.123.000670\n\n\n\n\nWang Z, Wang L, Ebbini M, Curran GL, Vernon CJ, Min HK, Siegel RA, Lowe VJ, Kandimalla KK. (2023)\nJ Pharmacol Exp Ther.\nDOI: 10.1124/jpet.122.001545\n\n\n\n\nWang Z, Tang X, Swaminathan SK, Kalari KR, Kandimalla KK. (2022)\nNPJ Syst Biol Appl.\nDOI: 10.1038/s41540-022-00288-0\n\n\n\n\nWang Z, Sharda N, Curran GL, Li L, Lowe VJ, Kandimalla KK. (2021)\nMol Pharm.\nDOI: 10.1021/acs.molpharmaceut.1c00549"
   },
   {
     "objectID": "Publications.html#full-list",
@@ -75,6 +82,62 @@
     "title": "Publications",
     "section": "Full List",
     "text": "Full List\n📄 View all publications on Google Scholar"
+  },
+  {
+    "objectID": "Personal.html",
+    "href": "Personal.html",
+    "title": "Personal Life",
+    "section": "",
+    "text": "When I’m not modeling pharmacokinetics or optimizing drug development pipelines, I enjoy a variety of activities that help me stay grounded, creative, and connected."
+  },
+  {
+    "objectID": "Personal.html#about-me-outside-the-lab",
+    "href": "Personal.html#about-me-outside-the-lab",
+    "title": "Personal Life",
+    "section": "",
+    "text": "When I’m not modeling pharmacokinetics or optimizing drug development pipelines, I enjoy a variety of activities that help me stay grounded, creative, and connected."
+  },
+  {
+    "objectID": "Personal.html#hobbies-interests",
+    "href": "Personal.html#hobbies-interests",
+    "title": "Personal Life",
+    "section": "🌱 Hobbies & Interests",
+    "text": "🌱 Hobbies & Interests\n\nGardening — I find peace and joy in growing herbs and vegetables, especially during spring and summer. Watching something grow over time reminds me of both science and patience.\nCooking — Experimenting with new recipes is one of my favorite creative outlets. I enjoy cooking traditional Chinese dishes and trying global cuisines.\nTable Tennis & Badminton — Great ways to stay active and have fun with friends and family.\nMahjong — I love playing mahjong with friends — it’s strategic, social, and always entertaining."
+  },
+  {
+    "objectID": "Personal.html#travel-nature",
+    "href": "Personal.html#travel-nature",
+    "title": "Personal Life",
+    "section": "🌄 Travel & Nature",
+    "text": "🌄 Travel & Nature\nI’ve had the pleasure of visiting several breathtaking national parks, including:\n\n🏞️ Yellowstone National Park\n🏔️ Grand Teton National Park\n🍁 Banff National Park (Canada)\n\nI love spending time in nature — hiking, exploring, and soaking in the peace of the outdoors."
+  },
+  {
+    "objectID": "Personal.html#married-life",
+    "href": "Personal.html#married-life",
+    "title": "Personal Life",
+    "section": "💍 Married Life",
+    "text": "💍 Married Life\nI am going to marry my wonderful partner, Lu, in June 2025! ❤️\nShe’s been an incredible source of support and joy in my life. We’re excited to begin this new chapter together and are grateful for all the love from family and friends."
+  },
+  {
+    "objectID": "Personal.html#life-in-indiana",
+    "href": "Personal.html#life-in-indiana",
+    "title": "Personal Life",
+    "section": "🏠 Life in Indiana",
+    "text": "🏠 Life in Indiana\nI currently live in the Greater Indianapolis area, where Lu and I recently bought our first home 🏡. It’s been a wonderful journey turning a house into a home, and we’re excited for what the future holds here."
+  },
+  {
+    "objectID": "Personal.html#family",
+    "href": "Personal.html#family",
+    "title": "Personal Life",
+    "section": "👨‍👩‍👧‍👧 Family",
+    "text": "👨‍👩‍👧‍👧 Family\nI come from a loving family with two amazing older sisters. We remain very close, even as our lives have taken us to different parts of the world."
+  },
+  {
+    "objectID": "Personal.html#big-milestones",
+    "href": "Personal.html#big-milestones",
+    "title": "Personal Life",
+    "section": "🎉 Big Milestones",
+    "text": "🎉 Big Milestones\nThis year has been full of beautiful milestones — including our wedding celebration and a housewarming party. I’m incredibly grateful for the love and support surrounding us.\n\nThanks for stopping by and getting to know me beyond the publications and projects!"
   },
   {
     "objectID": "about.html",

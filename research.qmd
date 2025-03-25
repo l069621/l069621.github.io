@@ -5,65 +5,72 @@ format:
     toc: true
     number-sections: false
     smooth-scroll: true
-    html-math-method: katex
 ---
 
-## Overview
+## 🧠 Alzheimer's Disease & Blood-Brain Barrier Dysfunction  
+**PhD Research, University of Minnesota (Nov 2019 – May 2024)**  
+Graduate Research Assistant  
+*Advisor: Dr. Karunya K. Kandimalla*
 
-My research focuses on the intersection of pharmacokinetics/pharmacodynamics (PK/PD), quantitative systems pharmacology (QSP), and mathematical modeling to improve the understanding of complex disease mechanisms and inform therapeutic development.
+My dissertation research focused on understanding how amyloid-beta (Aβ) peptides and insulin resistance contribute to cerebrovascular dysfunction in Alzheimer’s disease, with a special emphasis on the blood-brain barrier (BBB). Key accomplishments include:
 
-I am particularly interested in applying modeling and simulation approaches to support drug development in neurological and metabolic diseases, including:
+- 📊 Developed a **population pharmacokinetic model** to study Aβ isoform trafficking and accumulation at the BBB endothelium.  
+  *Published in [Molecular Pharmaceutics](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.1c00549)*
 
-- **Alzheimer’s disease**
-- **Type 1 and Type 2 diabetes**
-- **Blood-brain barrier (BBB) transport**
-- **Cerebrovascular dysfunction**
+- 🔬 Conducted **flow cytometry, western blot, and confocal imaging** to investigate distinct molecular mechanisms of Aβ uptake and intracellular trafficking in BBB endothelial cells.  
+  *Published in [Molecular Pharmacology](https://molpharm.aspetjournals.org/article/S0026-895X(24)00059-2/abstract)*
 
----
+- 🧠 Established a **compartmental PK model** to deconvolve plasma kinetics of imaging tracers from dynamic SPECT/CT heart scans.  
+  *Published in [Journal of Pharmacology and Experimental Therapeutics](https://jpet.aspetjournals.org/article/S0022-3565(24)17050-4/abstract)*
 
-## Current Research Areas
+- 🧪 Studied the effect of **HDL mimetic peptides and gut microbiome metabolites** on Aβ accumulation using dynamic imaging and cellular assays.  
+  *Published in [Molecular Pharmaceutics](https://pubs.acs.org/doi/full/10.1021/acs.molpharmaceut.4c00633)*
 
-### 🧠 Alzheimer’s Disease & Blood-Brain Barrier Modeling
+- 🧬 Interpreted **time-series transcriptomics** of insulin-exposed BBB endothelial cells and co-authored the manuscript.  
+  *Published in [NPJ Systems Biology and Applications](https://www.nature.com/articles/s41540-022-00235-8)*
 
-- Investigating how amyloid-beta (Aβ) peptides impact endothelial function and inflammation at the BBB
-- Modeling the role of insulin resistance and p38 MAPK signaling in BBB dysfunction
-- Using dynamic SPECT/CT imaging and PK modeling to assess Aβ42 brain distribution
-- Evaluating the therapeutic potential of HDL mimetic peptides (e.g., 4F) to restore BBB integrity
-
----
-
-### 💉 Diabetes & Insulin Therapy
-
-- Population PK/PD modeling of novel insulin analogs
-- Dose projection for first-in-human (FIH) studies using preclinical data
-- Disease progression modeling of Alzheimer's and Parkinson's disease
+- 🔁 Built a **quantitative systems pharmacology (QSP) model** to simulate insulin signaling and VCAM1 expression in BBB endothelial cells. Integrated proteomics and transcriptomics to study vascular inflammation in Alzheimer’s disease.  
+  *Published in [CPT: Pharmacometrics & Systems Pharmacology](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.13296)*
 
 ---
 
-### 🔬 Methodologies
+## 🧬 Modeling Neurodegenerative Disease Progression  
+**Modeling & Simulation Co-op, Biogen Inc. (Jan – Jun 2023)**  
+Clinical Pharmacology and Pharmacometrics  
+*Supervisor: Dr. Jingxian (JC) Chen*
 
-- Mechanistic compartmental and systems pharmacology modeling
-- Sex-specific modeling of Aβ transport and vascular dysfunction
+- 📈 Conducted **model-based meta-analysis (MBMA)** of MDS-UPDRS data to support early Parkinson’s disease (PD) trial design.
+- 🧮 Built **nonlinear mixed-effect models** (in NONMEM and Monolix) to describe disease progression and time-to-event outcomes.
+- 📊 Simulated longitudinal endpoint profiles to evaluate study designs and dosing strategies.
+- 🗣️ Presented modeling results and impact to internal project teams and stakeholders.  
+  *Presented at ACoP14*
 
----
-
-## Selected Projects
-
-- **Modeling HDL mimetic peptide effects on Aβ transport at the BBB**  
-  *Dynamic imaging + PK modeling to quantify influx/efflux changes*
-
-- **QSP modeling of insulin signaling pathways in the brain**  
-  *Exploring insulin resistance in Alzheimer’s disease*
-
-- **Individualized PD simulation for dose optimization**  
-  *Built a Shiny app to explore dosing scenarios by patient subgroup*
+- 🧪 Developed a **PK/PD model for antisense oligonucleotide (ASO) therapy** in PD and simulated alternate regimens to inform dose optimization.
 
 ---
 
-## Let's Collaborate
+## 🧪 Imaging Probe Development for Cancer Detection  
+**Undergraduate Research Assistant, Shanghai Jiao Tong University (Oct 2016 – Jun 2019)**  
+*Advisor: Dr. Qingqing Meng*
 
-I’m always open to collaborations in systems pharmacology, BBB modeling, and model-informed drug development.  
-📬 Reach me at [zengtao.wang@lilly.com](mailto:zengtao.wang@lilly.com)
+- 🧫 Designed and synthesized **bimodal NIR and PET imaging probes** targeting CYP1B1 for early tumor detection.
+- 🔬 Evaluated binding affinity and selectivity in CYP1B1-overexpressing cancer cell lines using flow cytometry and confocal imaging.
+- 🧠 Performed in vivo/ex vivo biodistribution and tumor visualization imaging.  
+  *Published in J. Med. Chem. and ChemBioChem.*
 
+---
 
+## 🧪 BBB Drug Delivery for Alzheimer’s Therapy  
+**Summer Research Intern, University of Tokyo / iCONM (Summer 2018)**  
+*Supervisor: Dr. Kazunori Kataoka*
+
+- 🧪 Prepared **PEGylated anti-Aβ antibodies** and characterized them with GPC and DLS.
+- 🧠 Assessed **brain delivery and pharmacokinetics** of modified antibodies to improve BBB penetration in Alzheimer’s disease.
+
+---
+
+## 🔗 Related Publications
+
+> 📂 See full list on [Google Scholar](https://scholar.google.com/citations?user=4mJXDH4AAAAJ&hl=en)  
+> 📄 View detailed summaries in the [Publications](publications.qmd) page.
 
