@@ -9,115 +9,115 @@ format:
 
 ## 🎉 Big Milestones
 
-::: {.timeline}
+::: timeline
+### 📍1997 — Born in Yibin, China
 
-### 📍1997 — Born in Yibin, China  
-*Where it all began—surrounded by mountains and river valleys.*  
+*Where it all began—surrounded by mountains and river valleys.*
 
----
+------------------------------------------------------------------------
 
-### 📍2009 — Moved to Chengdu for Middle School  
-*A young teenager stepping into a bustling city full of possibilities.*  
+### 📍2009 — Moved to Chengdu for Middle School
 
----
+*A young teenager stepping into a bustling city full of possibilities.*
 
-### 📍2015 — Started College at Shanghai Jiao Tong University  
-*Diving into science and shaping dreams.*  
+------------------------------------------------------------------------
 
----
+### 📍2015 — Started College at Shanghai Jiao Tong University
 
-### 📍2018 — Published My First Research Paper  
-*A proud moment marking my first contribution to science.*  
+*Diving into science and shaping dreams.*
 
----
+------------------------------------------------------------------------
 
-### 📍2019 — Graduated and Decided to Study Abroad  
-*A leap of faith and a heart full of hope.*  
+### 📍2018 — Published My First Research Paper
+
+*A proud moment marking my first contribution to science.*
+
+------------------------------------------------------------------------
+
+### 📍2019 — Graduated and Decided to Study Abroad
+
+*A leap of faith and a heart full of hope.*\
 ![Graduation 2019](media/2019_graduation.jpg)
 
----
+------------------------------------------------------------------------
 
-### 📍2020 — Moved to the United States for Graduate School  
-*New country, new challenges, and a new chapter.*  
+### 📍2020 — Moved to the United States for Graduate School
 
----
+*New country, new challenges, and a new chapter.*
 
-### 📍2023 — First Internship in the Pharmaceutical Industry  
-*Turning knowledge into real-world impact.*  
-![Internship](images/internship.jpg)
+------------------------------------------------------------------------
 
----
+### 📍2023 — First Internship in the Pharmaceutical Industry
 
-### 📍2024 — Earned My Ph.D. and Moved to Indiana  
-*Years of hard work paid off—hello Dr. Me!*  
+*Turning knowledge into real-world impact.*\
+![Internship](media/internship.jpg)
+
+------------------------------------------------------------------------
+
+### 📍2024 — Earned My Ph.D. and Moved to Indiana
+
+*Years of hard work paid off—hello Dr. Me!*\
 ![PhD Graduation](media/2024_graduation.jpg)
 
----
+------------------------------------------------------------------------
 
-### 📍2025 — Getting Married to Lu and Buying Our First Home  
-*Building a future together, full of love and shared dreams.*  
+### 📍2025 — Getting Married to Lu and Buying Our First Home
+
+*Building a future together, full of love and shared dreams.*\
 ![Wedding & home](media/deathvalley.jpg)
-
 :::
 
----
+------------------------------------------------------------------------
 
 ## 👋 About Me Outside the Lab
 
 When I’m not modeling pharmacokinetics or optimizing drug development pipelines, I enjoy a variety of activities that help me stay grounded, creative, and connected.
 
----
+------------------------------------------------------------------------
 
 ## 🌱 Hobbies & Interests
 
-- **Gardening** — I find peace and joy in growing herbs and vegetables, especially during spring and summer. Watching something grow over time reminds me of both science and patience.
-- **Cooking** — Experimenting with new recipes is one of my favorite creative outlets. I enjoy cooking traditional Chinese dishes and trying global cuisines.
-- **Table Tennis & Badminton** — Great ways to stay active and have fun with friends and family.
-- **Mahjong** — I love playing mahjong with friends — it’s strategic, social, and always entertaining.
+-   **Gardening** — I find peace and joy in growing herbs and vegetables, especially during spring and summer. Watching something grow over time reminds me of both science and patience.
+-   **Cooking** — Experimenting with new recipes is one of my favorite creative outlets. I enjoy cooking traditional Chinese dishes and trying global cuisines.
+-   **Table Tennis & Badminton** — Great ways to stay active and have fun with friends and family.
+-   **Mahjong** — I love playing mahjong with friends — it’s strategic, social, and always entertaining.
 
----
+------------------------------------------------------------------------
 
 ## 🌄 Travel & Nature
 
 I’ve had the pleasure of visiting several breathtaking national parks, including:
 
-- 🏜️ **Death Valley National Park**
-- 🏝 **Shenandoah national park**
-![](media/shenadoh.jpg)
-- 🏞️ **Yellowstone National Park**
-- 🏔️ **Grand Teton National Park**
-- 🍁 **Banff National Park** (Canada)
-- 🏞 **Yunnan, China**
-![](media/yunnan.jpg)
+-   🏜️ **Death Valley National Park**
+-   🏝 **Shenandoah national park** ![](media/shenadoh.jpg)
+-   🏞️ **Yellowstone National Park**
+-   🏔️ **Grand Teton National Park**
+-   🍁 **Banff National Park** (Canada)
+-   🏞 **Yunnan, China** ![](media/yunnan.jpg)
 
 I love spending time in nature — hiking, exploring, and soaking in the peace of the outdoors.
 
----
+------------------------------------------------------------------------
 
 ## 💍 Married Life
 
-I am going to marry my wonderful partner, **Lu**, in **June 2025**! ❤️  
+I am going to marry my wonderful partner, **Lu**, in **June 2025**! ❤️\
 She's been an incredible source of support and joy in my life. We’re excited to begin this new chapter together and are grateful for all the love from family and friends.
 
----
+------------------------------------------------------------------------
 
 ## 🏠 Life in Indiana
 
 I currently live in the Greater Indianapolis area, where Lu and I recently bought our first home 🏡. It’s been a wonderful journey turning a house into a home, and we’re excited for what the future holds here.
 
----
+------------------------------------------------------------------------
 
 ## 👨‍👩‍👧‍👧 Family
 
 I come from a loving family with two amazing older sisters. We remain very close, even as our lives have taken us to different parts of the world.
 
----
+------------------------------------------------------------------------
 
-
----
+------------------------------------------------------------------------
 
 Thanks for stopping by and getting to know me beyond the publications and projects!
-
-
-
-
