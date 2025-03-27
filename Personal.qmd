@@ -9,10 +9,11 @@ format:
 
 ## 🎉 Big Milestones
 
-::: timeline
+::: {.timeline style="font-size: 0.8em;"}
 ### 📍1997 — Born in Yibin, China
 
 *Where it all began—surrounded by mountains and river valleys.*
+![2-year-old ME](media/personal/child.jpg)
 
 ------------------------------------------------------------------------
 
@@ -34,37 +35,31 @@ format:
 
 ------------------------------------------------------------------------
 
-### 📍2019 — Graduated and Decided to Study Abroad
+### 📍2019 — Graduated and moved to the US for graduate study
 
 *A leap of faith and a heart full of hope.*\
-![Graduation 2019](media/2019_graduation.jpg)
-
-------------------------------------------------------------------------
-
-### 📍2020 — Moved to the United States for Graduate School
-
-*New country, new challenges, and a new chapter.*
+![Graduation 2019](media/personal/2019_graduation.jpg)
 
 ------------------------------------------------------------------------
 
 ### 📍2023 — First Internship in the Pharmaceutical Industry
 
 *Turning knowledge into real-world impact.*\
-![Internship](media/internship.jpg)
+![Internship](media/personal/internship.jpg)
 
 ------------------------------------------------------------------------
 
 ### 📍2024 — Earned My Ph.D. and Moved to Indiana
 
 *Years of hard work paid off—hello Dr. Me!*\
-![PhD Graduation](media/2024_graduation.jpg)
+![PhD Graduation](media/personal/2024_graduation.jpg)
 
 ------------------------------------------------------------------------
 
 ### 📍2025 — Getting Married to Lu and Buying Our First Home
 
 *Building a future together, full of love and shared dreams.*\
-![Wedding & home](media/deathvalley.jpg)
+![Wedding & home](media/personal/love1.jpg)
 :::
 
 ------------------------------------------------------------------------
@@ -86,14 +81,20 @@ When I’m not modeling pharmacokinetics or optimizing drug development pipeline
 
 ## 🌄 Travel & Nature
 
-I’ve had the pleasure of visiting several breathtaking national parks, including:
+I’ve had the pleasure of visiting several breathtaking places, including:
 
 -   🏜️ **Death Valley National Park**
--   🏝 **Shenandoah national park** ![](media/shenadoh.jpg)
+![](media/personal/deathvally.jpg)
+-   🏝 **Shenandoah national park** 
+![](media/personal/shenadoh.jpg)
 -   🏞️ **Yellowstone National Park**
+![](media/personal/Yellowstone.jpg)
 -   🏔️ **Grand Teton National Park**
--   🍁 **Banff National Park** (Canada)
--   🏞 **Yunnan, China** ![](media/yunnan.jpg)
+![Grand tedon](media/personal/Grand_tedon.jpg)
+-   🍁 **Banff National Park** 
+![](media/personal/Banff.jpg)
+-   🏞 **Yunnan, China** 
+![](media/yunnan.jpg)
 
 I love spending time in nature — hiking, exploring, and soaking in the peace of the outdoors.
 

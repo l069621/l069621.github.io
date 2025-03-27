@@ -1,6 +1,6 @@
 ---
 title: "Zengtao Wang"
-image: media/Lilly headshot.jpg
+image: media/Lilly headshot-Teams.jpg
 toc: false
 about: 
   template: trestles
@@ -15,25 +15,22 @@ about:
       href: zengtao.wang@lilly.com
 ---
 
-:::{#hero-heading}
-
-Hi there! My name is Zengtao Wang and I am a pharmacometrician working at Eli Lilly and Company. 
-I am a PKPD scientist by training and I am passinate about applying quantitative modeling and simulation to drug development.
+::: {#hero-heading}
+Hi there! My name is Zengtao Wang and I am a pharmacometrician working at Eli Lilly and Company. I am a PKPD scientist by training and I am passionate about applying quantitative modeling and simulation to drug development.
 
 ## Education
 
-**University of Minnesota, Twin Cities** | Minneapolis, MN
+**University of Minnesota, Twin Cities** \| Minneapolis, MN
 
-PhD in Pharmaceutics | Sept 2019 - June 2024
+PhD in Pharmaceutics \| Sept 2019 - June 2024
 
-**Shanghai Jiao Tong University** | Shanghai, China
+**Shanghai Jiao Tong University** \| Shanghai, China
 
-B.S in Pharmacy | Sept 2015 - June 2019
+B.S in Pharmacy \| Sept 2015 - June 2019
 
 ## Experience
 
-**Eli Lilly and Company** | Indianapolis, IN
+**Eli Lilly and Company** \| Indianapolis, IN
 
-Advisor - Pharmacometrician | June 2024 - present
-
+Advisor - Pharmacometrician \| June 2024 - present
 :::

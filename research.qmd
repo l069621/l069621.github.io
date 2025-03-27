@@ -7,70 +7,77 @@ format:
     smooth-scroll: true
 ---
 
-## 🧠 Alzheimer's Disease & Blood-Brain Barrier Dysfunction  
-**PhD Research, University of Minnesota (Nov 2019 – May 2024)**  
-Graduate Research Assistant  
+## 🧠 Alzheimer's Disease & Blood-Brain Barrier Dysfunction
+
+**PhD Research, University of Minnesota (Nov 2019 – May 2024)**\
+Graduate Research Assistant\
 *Advisor: Dr. Karunya K. Kandimalla*
 
 My dissertation research focused on understanding how amyloid-beta (Aβ) peptides and insulin resistance contribute to cerebrovascular dysfunction in Alzheimer’s disease, with a special emphasis on the blood-brain barrier (BBB). Key accomplishments include:
 
-- 📊 Developed a **population pharmacokinetic model** to study Aβ isoform trafficking and accumulation at the BBB endothelium.  
-  *Published in [Molecular Pharmaceutics](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.1c00549)*
+-   📊 Developed a **population pharmacokinetic model** to study Aβ isoform trafficking and accumulation at the BBB endothelium.\
+    *Published in [Molecular Pharmaceutics](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.1c00549)*
 
-- 🔬 Conducted **flow cytometry, western blot, and confocal imaging** to investigate distinct molecular mechanisms of Aβ uptake and intracellular trafficking in BBB endothelial cells.  
-  *Published in [Molecular Pharmacology](https://molpharm.aspetjournals.org/article/S0026-895X(24)00059-2/abstract)*
+-   🔬 Conducted **flow cytometry, western blot, and confocal imaging** to investigate distinct molecular mechanisms of Aβ uptake and intracellular trafficking in BBB endothelial cells.\
+    *Published in [Molecular Pharmacology](https://molpharm.aspetjournals.org/article/S0026-895X(24)00059-2/abstract)*
 
-- 🧠 Established a **compartmental PK model** to deconvolve plasma kinetics of imaging tracers from dynamic SPECT/CT heart scans.  
-  *Published in [Journal of Pharmacology and Experimental Therapeutics](https://jpet.aspetjournals.org/article/S0022-3565(24)17050-4/abstract)*
+-   🧠 Established a **compartmental PK model** to deconvolve plasma kinetics of imaging tracers from dynamic SPECT/CT heart scans.\
+    *Published in [Journal of Pharmacology and Experimental Therapeutics](https://jpet.aspetjournals.org/article/S0022-3565(24)17050-4/abstract)*
 
-- 🧪 Studied the effect of **HDL mimetic peptides and gut microbiome metabolites** on Aβ accumulation using dynamic imaging and cellular assays.  
-  *Published in [Molecular Pharmaceutics](https://pubs.acs.org/doi/full/10.1021/acs.molpharmaceut.4c00633)*
+-   🧪 Studied the effect of **HDL mimetic peptides and gut microbiome metabolites** on Aβ accumulation using dynamic imaging and cellular assays.\
+    *Published in [Molecular Pharmaceutics](https://pubs.acs.org/doi/full/10.1021/acs.molpharmaceut.4c00633)*
 
-- 🧬 Interpreted **time-series transcriptomics** of insulin-exposed BBB endothelial cells and co-authored the manuscript.  
-  *Published in [NPJ Systems Biology and Applications](https://www.nature.com/articles/s41540-022-00235-8)*
+![4F effect on Amyloid beta PK](media/Research/4f_paper.png)
 
-- 🔁 Built a **quantitative systems pharmacology (QSP) model** to simulate insulin signaling and VCAM1 expression in BBB endothelial cells. Integrated proteomics and transcriptomics to study vascular inflammation in Alzheimer’s disease.  
-  *Published in [CPT: Pharmacometrics & Systems Pharmacology](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.13296)*
+-   🧬 Interpreted **time-series transcriptomics** of insulin-exposed BBB endothelial cells and co-authored the manuscript.\
+    *Published in [NPJ Systems Biology and Applications](https://www.nature.com/articles/s41540-022-00235-8)*
 
----
+-   🔁 Built a **quantitative systems pharmacology (QSP) model** to simulate insulin signaling and VCAM1 expression in BBB endothelial cells. Integrated proteomics and transcriptomics to study vascular inflammation in Alzheimer’s disease.\
+    *Published in [CPT: Pharmacometrics & Systems Pharmacology](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.13296)*
+![QSP model](media/Research/qsp_paper.png)
+------------------------------------------------------------------------
 
-## 🧬 Modeling Neurodegenerative Disease Progression  
-**Modeling & Simulation Co-op, Biogen Inc. (Jan – Jun 2023)**  
-Clinical Pharmacology and Pharmacometrics  
+## 🧬 Modeling Neurodegenerative Disease Progression
+
+**Modeling & Simulation Co-op, Biogen Inc. (Jan – Jun 2023)**\
+Clinical Pharmacology and Pharmacometrics\
 *Supervisor: Dr. Jingxian (JC) Chen*
 
-- 📈 Conducted **model-based meta-analysis (MBMA)** of MDS-UPDRS data to support early Parkinson’s disease (PD) trial design.
-- 🧮 Built **nonlinear mixed-effect models** (in NONMEM and Monolix) to describe disease progression and time-to-event outcomes.
-- 📊 Simulated longitudinal endpoint profiles to evaluate study designs and dosing strategies.
-- 🗣️ Presented modeling results and impact to internal project teams and stakeholders.  
-  *Presented at ACoP14*
+-   📈 Conducted **model-based meta-analysis (MBMA)** of MDS-UPDRS data to support early Parkinson’s disease (PD) trial design.
 
-- 🧪 Developed a **PK/PD model for antisense oligonucleotide (ASO) therapy** in PD and simulated alternate regimens to inform dose optimization.
+-   🧮 Built **nonlinear mixed-effect models** (in NONMEM and Monolix) to describe disease progression and time-to-event outcomes.
 
----
+-   📊 Simulated longitudinal endpoint profiles to evaluate study designs and dosing strategies.
 
-## 🧪 Imaging Probe Development for Cancer Detection  
-**Undergraduate Research Assistant, Shanghai Jiao Tong University (Oct 2016 – Jun 2019)**  
+-   🗣️ Presented modeling results and impact to internal project teams and stakeholders.\
+    *Presented at ACoP14*
+
+-   🧪 Developed a **PK/PD model for antisense oligonucleotide (ASO) therapy** in PD and simulated alternate regimens to inform dose optimization.
+
+------------------------------------------------------------------------
+
+## 🧪 Imaging Probe Development for Cancer Detection
+
+**Undergraduate Research Assistant, Shanghai Jiao Tong University (Oct 2016 – Jun 2019)**\
 *Advisor: Dr. Qingqing Meng*
 
-- 🧫 Designed and synthesized **bimodal NIR and PET imaging probes** targeting CYP1B1 for early tumor detection.
-- 🔬 Evaluated binding affinity and selectivity in CYP1B1-overexpressing cancer cell lines using flow cytometry and confocal imaging.
-- 🧠 Performed in vivo/ex vivo biodistribution and tumor visualization imaging.  
-  *Published in J. Med. Chem. and ChemBioChem.*
+-   🧫 Designed and synthesized **bimodal NIR and PET imaging probes** targeting CYP1B1 for early tumor detection.
+-   🔬 Evaluated binding affinity and selectivity in CYP1B1-overexpressing cancer cell lines using flow cytometry and confocal imaging.
+-   🧠 Performed in vivo/ex vivo biodistribution and tumor visualization imaging.\
+    *Published in J. Med. Chem. and ChemBioChem.*
 
----
+------------------------------------------------------------------------
 
-## 🧪 BBB Drug Delivery for Alzheimer’s Therapy  
-**Summer Research Intern, University of Tokyo / iCONM (Summer 2018)**  
+## 🧪 BBB Drug Delivery for Alzheimer’s Therapy
+
+**Summer Research Intern, University of Tokyo / iCONM (Summer 2018)**\
 *Supervisor: Dr. Kazunori Kataoka*
 
-- 🧪 Prepared **PEGylated anti-Aβ antibodies** and characterized them with GPC and DLS.
-- 🧠 Assessed **brain delivery and pharmacokinetics** of modified antibodies to improve BBB penetration in Alzheimer’s disease.
+-   🧪 Prepared **PEGylated anti-Aβ antibodies** and characterized them with GPC and DLS.
+-   🧠 Assessed **brain delivery and pharmacokinetics** of modified antibodies to improve BBB penetration in Alzheimer’s disease.
 
----
+------------------------------------------------------------------------
 
 ## 🔗 Related Publications
 
-> 📂 See full list on [Google Scholar](https://scholar.google.com/citations?user=4mJXDH4AAAAJ&hl=en)  
-> 📄 View detailed summaries in the [Publications](publications.qmd) page.
-
+> 📂 See full list on [Google Scholar](https://scholar.google.com/citations?user=4mJXDH4AAAAJ&hl=en)
