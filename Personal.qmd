@@ -9,7 +9,7 @@ format:
 
 ## 🎉 Big Milestones
 
-::: {.timeline style="font-size: 0.8em;"}
+::: {.timeline style="font-size: 0.6em;"}
 ### 📍1997 — Born in Yibin, China
 
 *Where it all began—surrounded by mountains and river valleys.*
@@ -94,7 +94,7 @@ I’ve had the pleasure of visiting several breathtaking places, including:
 -   🍁 **Banff National Park** 
 ![](media/personal/Banff.jpg)
 -   🏞 **Yunnan, China** 
-![](media/yunnan.jpg)
+![](media/personal/yunnan.jpg)
 
 I love spending time in nature — hiking, exploring, and soaking in the peace of the outdoors.
 

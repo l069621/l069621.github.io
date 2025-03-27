@@ -35,6 +35,7 @@ My dissertation research focused on understanding how amyloid-beta (Aβ) peptide
 -   🔁 Built a **quantitative systems pharmacology (QSP) model** to simulate insulin signaling and VCAM1 expression in BBB endothelial cells. Integrated proteomics and transcriptomics to study vascular inflammation in Alzheimer’s disease.\
     *Published in [CPT: Pharmacometrics & Systems Pharmacology](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.13296)*
 ![QSP model](media/Research/qsp_paper.png)
+
 ------------------------------------------------------------------------
 
 ## 🧬 Modeling Neurodegenerative Disease Progression
