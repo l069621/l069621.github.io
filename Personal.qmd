@@ -9,7 +9,7 @@ format:
 
 ## 🎉 Big Milestones
 
-::: {.timeline style="font-size: 0.6em;"}
+::: {.timeline style="font-size: 0.8em;"}
 ### 📍1997 — Born in Yibin, China
 
 *Where it all began—surrounded by mountains and river valleys.*
