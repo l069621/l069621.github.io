@@ -8,15 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: file/Zengtao Wang_CV.pdf
+        text: CV
       - research.qmd
       - Publications.qmd
       - Personal.qmd
+      - post.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: solar
     css: styles.css
     toc: true
     page-layout: full

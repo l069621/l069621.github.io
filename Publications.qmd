@@ -52,8 +52,15 @@ Wang Z, Tang X, Swaminathan SK, Kalari KR, Kandimalla KK. (2022)\
 
 Wang Z, Sharda N, Curran GL, Li L, Lowe VJ, Kandimalla KK. (2021)\
 *Mol Pharm.*\
-[DOI: 10.1021/acs.molpharmaceut.1c00549](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.1c00549)
+[DOI: 10.1021/acs.jmedchem.8b01633](https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01633)
 
+------------------------------------------------------------------------
+
+### **Design, Synthesis, and Biological Evaluation of Cytochrome P450 1B1 Targeted Molecular Imaging Probes for Colorectal Tumor Detection.**
+
+Meng Q, Wang Z, Cui J, Cui Q, Dong J, Zhang Q, Li S. (2018)\
+*J Med Chem.*\
+[DOI: 10.1021/acs.jmedchem.8b00707](https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b00707)
 ## Full List
 
 📄 View all publications on [Google Scholar](https://scholar.google.com/citations?user=4mJXDH4AAAAJ&hl=en)
