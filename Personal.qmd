@@ -95,7 +95,7 @@ creative, and connected.
 I’ve had the pleasure of visiting several breathtaking places,
 including:
 
-- 🏞 **Great Smoky National Park** ![](media/personal/greatsmoky.jpg)
+-   🏞 **Great Smoky National Park** ![](media/personal/greatsmoky.jpg)
 -   🏜️ **Death Valley National Park** ![](media/personal/deathvally.jpg)
 -   🏝 **Shenandoah national park** ![](media/personal/shenadoh.jpg)
 -   🏞️ **Yellowstone National Park** ![](media/personal/Yellowstone.jpg)
