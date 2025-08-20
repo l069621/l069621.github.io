@@ -12,7 +12,7 @@ Welcome to my personal blog! I’m Zengtao Wang, a PKPD scientist by training an
 
 For me, blogging is more than just putting words online—it’s a way to reflect and grow.
 
--   We live in a world overflowing with information. Writing helps me process it, find clarity, and maintain a sense of balance instead of feeling overwhelmed.
+-   We live in a world overflowing with information. Writing helps me process it, find clarity, and maintain a sense of balance instead of feeling overwhelmed. (PK concept! Rate in == Rate out to be at steady state)
 
 -   Sharing my perspective is a way of giving back. I feel fortunate for the journey that has brought me here, and I hope my experiences can help students and early career professionals who are navigating their own paths.
 
