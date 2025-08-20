@@ -1,0 +1,25 @@
+---
+title: "Introduction"
+description: "Why do I want to write blogs and what to expect?"
+date: 08-20-2025
+categories: [Personal]
+draft: true
+---
+
+Welcome to my personal blog! I’m Zengtao Wang, a PKPD scientist by training and currently a Pharmacometrician at Eli Lilly and Company. Outside of work, I am also a tennis rookie, a traveler and a cooking enthusiast. Over the past several years, I’ve been fortunate to grow through different phases of life—from student to researcher to early career professional. Along the way, I’ve collected experiences, lessons, and stories that I believe are worth sharing. This space is my way of connecting with others, reflecting on my journey, and hopefully offering something helpful, whether you’re a student, a young professional, or simply someone curious about PKPD science, career growth, or everyday life.
+
+# Why blogging?
+For me, blogging is more than just putting words online—it’s a way to reflect and grow.
+
+- We live in a world overflowing with information. Writing helps me process it, find clarity, and maintain a sense of balance instead of feeling overwhelmed.
+
+- Sharing my perspective is a way of giving back. I feel fortunate for the journey that has brought me here, and I hope my experiences can help students and early career professionals who are navigating their own paths.
+
+- Most importantly, writing is a mirror. It forces me to slow down, articulate my thoughts, and keep learning about myself.
+
+# What to expect?
+At least for now, my blogs will fall into three categories (though this may evolve as I do):
+- Three categories for my blogs but subject to change in the future.
+  - 1) Career development. From undergraduate years to graduate school and into my early professional life: what I did right, what I did wrong, and what I learned along the way.
+  - 2) Technical. Deep dives into modeling and simulation: tools, methods, and lessons learned.
+  - 3) Personal. Because life isn’t only about work: my love for travel and cooking, with stories, experiences, and recipes to share.
