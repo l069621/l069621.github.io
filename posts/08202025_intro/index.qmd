@@ -3,7 +3,7 @@ title: "Introduction"
 description: "Why do I want to write blogs and what to expect?"
 date: 08-20-2025
 categories: [Personal]
-draft: true
+draft: false
 ---
 
 Welcome to my personal blog! I’m Zengtao Wang, a PKPD scientist by training and currently a Pharmacometrician at Eli Lilly and Company. Outside of work, I am also a tennis rookie, a traveler and a cooking enthusiast. Over the past several years, I’ve been fortunate to grow through different phases of life—from student to researcher to early career professional. Along the way, I’ve collected experiences, lessons, and stories that I believe are worth sharing. This space is my way of connecting with others, reflecting on my journey, and hopefully offering something helpful, whether you’re a student, a young professional, or simply someone curious about PKPD science, career growth, or everyday life.
