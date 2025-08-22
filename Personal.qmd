@@ -16,6 +16,7 @@ editor:
 ### 📍1997 — Born in Yibin, China
 
 *Where it all began—surrounded by mountains and river valleys.*
+
 ![2-year-old ME](media/personal/child.jpg)
 
 ------------------------------------------------------------------------
@@ -40,28 +41,32 @@ editor:
 
 ### 📍2019 — Graduated and moved to the US for graduate study
 
-*A leap of faith and a heart full of hope.*\
-![Graduation 2019](media/personal/2019_graduation.jpg)
+*A leap of faith and a heart full of hope.*
+
+![SJTU Class of 2019](media/personal/2019_graduation.jpg)
 
 ------------------------------------------------------------------------
 
 ### 📍2023 — First Internship in the Pharmaceutical Industry
 
-*Turning knowledge into real-world impact.*\
-![Internship](media/personal/internship.jpg)
+*Turning knowledge into real-world impact.*
+
+![Internship at Biogen](media/personal/internship.jpg)
 
 ------------------------------------------------------------------------
 
 ### 📍2024 — Earned My Ph.D. and Moved to Indiana
 
-*Years of hard work paid off—hello Dr. Me!*\
+*Years of hard work paid off—hello Dr. Me!*
+
 ![PhD Graduation](media/personal/2024_graduation.jpg)
 
 ------------------------------------------------------------------------
 
 ### 📍2025 — Married to Lu and Bought Our First Home
 
-*Building a future together, full of love and shared dreams.*\
+*Building a future together, full of love and shared dreams.*
+
 ![Wedding & home](media/personal/married.JPG)
 :::
 
@@ -83,7 +88,7 @@ creative, and connected.
 -   **Cooking** — Experimenting with new recipes is one of my favorite
     creative outlets. I enjoy cooking traditional Chinese dishes and
     trying global cuisines.
--   **Table Tennis & Badminton** — Great ways to stay active and have
+-   **Tennis & Table Tennis** — Great ways to stay active and have
     fun with friends and family.
 -   **Mahjong** — I love playing mahjong with friends — it’s strategic,
     social, and always entertaining.
@@ -95,14 +100,37 @@ creative, and connected.
 I’ve had the pleasure of visiting several breathtaking places,
 including:
 
--   🏞 **Great Smoky National Park** ![](media/personal/greatsmoky.jpg)
--   🏜️ **Death Valley National Park** ![](media/personal/deathvally.jpg)
--   🏝 **Shenandoah national park** ![](media/personal/shenadoh.jpg)
--   🏞️ **Yellowstone National Park** ![](media/personal/Yellowstone.jpg)
--   🏔️ **Grand Teton National Park** ![Grand
-    tedon](media/personal/Grand_tedon.jpg)
--   🍁 **Banff National Park** ![](media/personal/Banff.jpg)
--   🏞 **Yunnan, China** ![](media/personal/yunnan.jpg)
+-   🏞 **Olympic National Park** 
+
+![](media/personal/olympic.jpg)
+
+-   🏞 **Great Smoky National Park** 
+
+![](media/personal/greatsmoky.jpg)
+
+-   🏜️ **Death Valley National Park**
+
+![](media/personal/deathvally.jpg)
+
+-   🏝 **Shenandoah national park** 
+
+![](media/personal/shenadoh.jpg)
+
+-   🏞️ **Yellowstone National Park**
+
+![](media/personal/Yellowstone.jpg)
+
+-   🏔️ **Grand Teton National Park**
+
+![](media/personal/Grand_tedon.jpg)
+    
+-   🍁 **Banff National Park** 
+
+![](media/personal/Banff.jpg)
+
+-   🏞 **Yunnan, China** 
+
+![](media/personal/yunnan.jpg)
 
 I love spending time in nature — hiking, exploring, and soaking in the
 peace of the outdoors.

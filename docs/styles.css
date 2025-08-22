@@ -1,1 +1,9 @@
 /* css styles */
+img {
+  width: 40%;  /* or 40% */
+  height: auto; /* maintain aspect ratio */
+}
+
+figure {
+  text-align: center;
+}

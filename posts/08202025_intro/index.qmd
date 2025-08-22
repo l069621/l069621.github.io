@@ -1,8 +1,9 @@
 ---
-title: "Introduction"
+title: "First Blog"
 description: "Why do I want to write blogs and what to expect?"
-date: 08-20-2025
+date: 08-19-2025
 categories: [Personal]
+image: "personal.png"
 draft: false
 ---
 
@@ -23,5 +24,7 @@ For me, blogging is more than just putting words online—it’s a way to reflec
 At least for now, my blogs will fall into three categories (though this may evolve as I do):
 
 -   **Career development**: From undergraduate years to graduate school and into my early professional life: what I did right, what I did wrong, and what I learned along the way.
+
 -   **Technical**: Deep dives into modeling and simulation: tools, methods, and lessons learned.
+
 -   **Personal**: Because life isn’t only about work: my love for travel and cooking, with stories, experiences, and recipes to share.
