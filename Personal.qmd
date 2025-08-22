@@ -8,6 +8,7 @@ format:
 editor: 
   markdown: 
     wrap: 72
+css: styles.css
 ---
 
 ## 🎉 Big Milestones
